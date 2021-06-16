@@ -1,4 +1,4 @@
-# Sample Snack app2
+# Sample Snack app22
 
 Welcome to Expo!
 
